@@ -1,0 +1,37 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.primary-button {
+  color: white;
+  text-transform: uppercase;
+  font-size: 15px;
+  background: linear-gradient(45deg, rgb(227, 69, 69), rgb(58, 58, 209));
+  ;
+  padding: 12px 30px;
+  border-radius: 30px;
+  border: none;
+}
+
+.primary-button.primary-button:hover {
+  background: linear-gradient(260deg, rgb(227, 69, 69), rgb(58, 58, 209));
+
+}
+
+body {
+  text-align: center;
+  background-color: black;
+  src: url('9594974.jpg');
+}
+
+h1 {
+  color: white;
+}
+
+/* ------Nav------ */
